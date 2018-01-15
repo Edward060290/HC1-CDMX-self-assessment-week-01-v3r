@@ -1,10 +1,39 @@
 /*Tree Map
 
 - [ ] Implement a higher order function, `map`, on the given `Tree` class using pseudoclassical instantiation
-
+//input value
+//output  result
+//add a class to the Object
+//check if the class already exixt
+//chek the size of the class
 Available resources for this prompt
+SUDOCODE
+// we need to add
 MDN
 */
+var Tree = fucntion (value) {
+  this.newTree = {}
+  this.newTree[newChild] = values
+  return newChild = [];
+  var p = Object.create(Tree.prototype)
+};
+
+
+
+Tree.prototype.addValue = function(addValue){
+  this.newTree[newChile] = addValue
+}
+Tree.prototype.size = fucntion(contain){
+  var newStorage = ;
+  for(var i = 0; i < this.newChild.length i++){
+    if(this.newChild.length[i] === newChild )
+    return
+  }
+  return false;
+}
+Tree.prototype.size = function(size){
+if(this.newTree[])
+}
 
 /**
   *
